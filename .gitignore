@@ -1,0 +1,50 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Data directories
+data/
+processed/
+
+# Logs
+logs/
+*.log
+
+# Configuration files with sensitive information
+config.ini
+*.ini
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# JSON data files
+*.json
+
+# CSV files
+*.csv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
